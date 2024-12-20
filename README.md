@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou [André Valério]! 👋
 
 ## Sobre Mim
 Sou apaixonado por projetos que unem **eletrônica**, **Arduino** e **programação**. Meu objetivo é transformar ideias em realidade com soluções práticas e criativas. Além disso, gosto de explorar o mundo do hacking ético, utilizando ferramentas como o **Kali Linux** para aprender sobre segurança e tecnologia.
